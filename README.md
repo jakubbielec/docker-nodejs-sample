@@ -18,7 +18,7 @@
 
 - ### *Installation der notwendigen Pakete:*
 
-   Als nächstes muss man auf *"Code"* drücken und dann auf *"Download ZIP"*.
+   Als nächstes muss man auf *"Code"* drücken und dann auf *"copy-symbol"*.
    Dann kann man auswählen, wo die **ZIP-Datei** geöffnet werden soll.
 
 ---
